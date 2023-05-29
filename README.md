@@ -2,4 +2,4 @@
 
 https://hasul79.github.io/Delete-Button-effect/
 
-# Autor: Hasmik Minasyan
+# autor: Hasmik Minasyan
